@@ -10,3 +10,6 @@ sudo bash -c 'curl -s https://raw.githubusercontent.com/Quitaxd/lm-desktop-switc
 ```ruby
 sudo lm-desktop-switcher
 ```
+
+## Why?
+This script is designed to make it easier for people to use Linux Mint comfortably.
